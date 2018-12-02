@@ -1,0 +1,26 @@
+Normal_Merge_Sort(1)
+Multithreading(2)
+MultiProcessor(3)
+Test Cases:
+A) 
+Test 1): N = 10000
+1. time = 0.010sec
+2. time = 0.127sec
+3. time = 1.062sec
+
+B)
+Test 2): N = 1024
+1. time = 0.004sec
+2. time = 0.014sec
+3. time = 0.118sec
+
+C)
+Test 3): N = 100
+1. time = 0.004sec
+2. time = 0.004sec
+3. time = 0.012sec
+
+
+In all the above cases normal_merge_sort > Multithreading > MultiProcessor
+
+	
